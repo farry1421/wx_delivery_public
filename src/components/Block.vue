@@ -4,7 +4,7 @@
     <span class="title">{{ blockTitle }}</span>
     <span>gitlab</span>
     <span>github</span>
-    <span>123</span>
+    <span>5</span>
   </div>
 </template>
 

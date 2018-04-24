@@ -3,6 +3,8 @@
     <img class="logo" :src="blockSrc" alt="">
     <span class="title">{{ blockTitle }}</span>
     <span>gitlab</span>
+    <span>github</span>
+    <span>123</span>
   </div>
 </template>
 

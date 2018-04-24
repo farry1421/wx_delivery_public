@@ -5,6 +5,7 @@
     <span>gitlab</span>
     <span>github</span>
     <span>这是zhuohao分支</span>
+    <span>我在zhuohao分支上改东西</span>  
   </div>
 </template>
 

@@ -2,6 +2,7 @@
   <div class="block" @click="enterPage">
     <img class="logo" :src="blockSrc" alt="">
     <span class="title">{{ blockTitle }}</span>
+    <span>gitlab</span>
   </div>
 </template>
 

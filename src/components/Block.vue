@@ -2,10 +2,6 @@
   <div class="block" @click="enterPage">
     <img class="logo" :src="blockSrc" alt="">
     <span class="title">{{ blockTitle }}</span>
-    <span>gitlab</span>
-    <span>github</span>
-    <span>这是zhuohao分支</span>
-    <span>我在zhuohao分支上改东西</span>  
   </div>
 </template>
 

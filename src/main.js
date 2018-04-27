@@ -34,6 +34,8 @@ import {
 } from 'cube-ui'
 import App from './App'
 import router from './router'
+import axios from 'axios'
+Vue.prototype.$http = axios
 
 Vue.use(Button)
 Vue.use(CheckboxGroup)

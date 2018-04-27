@@ -10,6 +10,8 @@ import Upload from '@/components/Upload'
 import UploadBase64 from '@/components/UploadBase64'
 import UploadSlot from '@/components/UploadSlot'
 import CascadePicker from '@/components/CascadePicker'
+import Qrcode from '@/components/Qrcode'
+import Axios from '@/components/Axios'
 
 Vue.use(Router)
 
@@ -64,6 +66,16 @@ export default new Router({
       path: '/cascadePicker',
       name: 'CascadePicker',
       component: CascadePicker
+    },
+    {
+      path: '/qrcode',
+      name: 'Qrcode',
+      component: Qrcode
+    },
+    {
+      path: '/axios',
+      name: 'Axios',
+      component: Axios
     }
   ]
 })

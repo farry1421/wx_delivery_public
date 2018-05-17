@@ -17,7 +17,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-  福建快递到家
+
     微信公众号
       个人中心 - 实名认证
       身份二维码（如何未实名跳转实名认证）

@@ -70,3 +70,4 @@ new Vue({
   template: '<App/>',
   components: { App }
 })
+// 这样router就可以全局用了, this.$router
